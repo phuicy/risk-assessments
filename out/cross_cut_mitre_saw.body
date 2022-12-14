@@ -1,0 +1,50 @@
+<h1>Tool: Cross cut mitre saw</h1>
+
+<h2>Risk: <img src="https://sysdiary.org/dot/xred.png" alt="red">High Risk</h2><h2>Induction: Mandatory</h2><h2>Activity</h2><ul><li>Cutting of wood, plastic and soft metal using a high speed rotating blade attached to a sliding and pivoting arm.
+</ul><h2>Personal Protective Equipment</h2><ul><li>Eye protection
+<li>Ear protection
+<li>Local Exhaust Ventilation
+<li>*
+</ul><h2>Procedure</h2><table border=0>
+<tr valign="top"><th>Before<th>During<th>After<tr valign="top"><td><ul><li>SEE INDUCTION
+<li>Perform a visual inspection of saw and any accessories being used for physical damage
+<li>Tie back or remove loose clothing or jewellery
+<li>Tie up long hair
+<li>Check if the blade is appropriate for the material used
+<li>Check bladeguard for damage and jamming
+<li>Check that the workpiece does not exceed the maximum dimension capcity of the tool
+<li>Stand in a comfortable but stable way and do not overeach to use the tool
+<li>Visualise the path of the blade before the tool is started
+</ul><td><ul><li>Start the tool away from the workpiece until it reaches full speed (not in contact with material)
+<li>Keep hands well away from blade path
+<li>Clamp the workpiece if required (e.g if metal or longer peice)
+<li>Cut the workpiece slowly allowing the blade to cut without applying too much pressure
+<li>Always lift the blade away from the workpiece before releasing the trigger
+<li>Never cut a workpiece that is smaller than the gap in the fence
+<li>Always rest workpieces against the fence
+</ul><td><ul><li>Ensure that the blade has stopped fully before bring hands near the work piece as the blade guard may not have fully returned home.
+<li>Do not touch the blade
+<li>Tidy up your working area.
+<li>Remove offcuts from the bench especially from the path of the blade
+<li>Brush away metal chippings with a small brush
+</ul></table>
+<h2>Risk Assessment</h2><table border=0><tr><th>Hazard<th>Persons<th>Before Controls<th>Controls<th>After Controls<tr valign="top"><th>Entanglement in moving machinery
+<td>Operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Loose clothing and long hair to be tied back.
+<li>Jewellery to be removed.
+</ul><td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>cut
+<td>operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>use guard provided keep
+<li>keep hands away from blade
+</ul><td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>kick-back causing workpiece to move through the air at high velocity
+<td>People in the vicinity
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>use clamp for small pieces and alway rest any piece agaiinst the fence
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>Ejected material in eyes
+<td>Operator
+<td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Safety goggles to be used.
+</ul><td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+</table><h2>History</h2><ul><li>2016-08-01 11:58:20 / jcl: converted from spreadsheet
+</ul>

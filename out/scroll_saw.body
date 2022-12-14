@@ -1,0 +1,27 @@
+<h1>Tool: Scroll Saw</h1>
+
+<h2>Risk: <img src="https://sysdiary.org/dot/xred.png" alt="red">High Risk</h2><h2>Induction: None</h2><h2>Activity</h2><ul></ul><h2>Personal Protective Equipment</h2><ul></ul><h2>Procedure</h2><table border=0>
+<tr valign="top"><th>Before<th>During<th>After<tr valign="top"><td><ul></ul><td><ul></ul><td><ul></ul></table>
+<h2>Risk Assessment</h2><table border=0><tr><th>Hazard<th>Persons<th>Before Controls<th>Controls<th>After Controls<tr valign="top"><th>Entanglement in moving machinery
+<td>Operator
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Loose clothing and long hair to be tied back.
+<li>Jewellery to be removed.
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>Burns
+<td>Current and next operator
+<td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low<td><ul><li>Drill bit to be left to cool after extended use.
+</ul><td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Fire
+<td>People in the vicinity
+<td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Equipment is CE marked.
+</ul><td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Broken wrist
+<td>Operator
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Two handed operation needed when using large drill bit, paddle bit, forstner bits, or hole saws.
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>Ejected material in eyes
+<td>Operator
+<td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Safety goggles to be used.
+</ul><td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+</table><h2>History</h2><ul><li>2016-08-01 11:58:25 / jcl: converted from spreadsheet
+</ul>

@@ -1,0 +1,75 @@
+<h1>Tool: Handheld Electric Jigsaw</h1>
+
+<h2>Risk: <img src="https://sysdiary.org/dot/xred.png" alt="red">High Risk</h2><h2>Induction: None</h2><h2>Activity</h2><ul><li>Cutting of thin wood, plastic, metal, ceramic plates and soft construction materials. Can be used for curved or circular cuts.
+<li>max thickness:
+<li>Hitachi - wood:90mm, mild steel: 8mm
+<li>Bosch - wood: 65mm, steel:4mm
+</ul><h2>Personal Protective Equipment</h2><ul><li>Eye protection
+<li>Dust mask
+</ul><h2>Procedure</h2><table border=0>
+<tr valign="top"><th>Before<th>During<th>After<tr valign="top"><td><ul><li>Work in a safe well lit area
+<li>Wear eye protection and if material requires it a dust mask or extraction (preferred)
+<li>Remove jewellery and loose clothing and tie up long hair
+<li>Make sure jigsaw is set to OFF before plugging in
+<li>Check the saw blade is undamaged, fitted correctly and suitable for the material you are cutting
+<li>When changing blades make sure the power is off. Clean the blade shank and make sure the blade is fitted securely and sits in the groove of the roller.
+<li>If cutting wood or board inspect it for any nails/screws/foreign objects
+<li>Clamp work securely to bench or hold in a vice
+<li>Check underside of work, make sure that the blade has enough clearance
+<li>Plan your cut so as to avoid overstretching or entanglement with power lead. Use a suitable extension cord if neccessary.
+</ul><td><ul><li>Hold saw by insulated gripping surfaces, especially if there is a risk the blade may contact hidden wire
+<li>Adjust speed and orbital position depending on material
+<li>Turn on jig saw before applying it to workpiece to avoid kickback
+<li>Keep baseplate in contact with worksurface throughout the cut
+<li>Keep hands out of blade path
+</ul><td><ul><li>Do not touch the blade immediately after operation as it will be hot
+<li>Put the tool away.
+<li>Tidy up your working area.
+<li>Vacuum up dust
+</ul></table>
+<h2>Risk Assessment</h2><table border=0><tr><th>Hazard<th>Persons<th>Before Controls<th>Controls<th>After Controls<tr valign="top"><th>Entanglement in moving machinery
+<td>Operator
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Loose clothing and long hair to be tied back.
+<li>Jewellery to be removed.
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>Burns
+<td>Current and next operator
+<td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low<td><ul><li>Blade to be left to cool after extended use.
+</ul><td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Fire
+<td>People in the vicinity
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Equipment is CE marked.
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Theoretical<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Cuts
+<td>Operator
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>keep hands clear of blade
+<li>keep tool under control at all times
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>Ejected material in eyes
+<td>Operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Safety goggles to be used.
+</ul><td><small>Severity<br></small>No injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgrey.png" alt="grey">None
+<tr valign="top"><th>Dust
+<td>Operator and people in vicinity
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>wear a dust mask when cutting MDF or any material that will produce fine dust
+<li>use external extraction equipment where available
+</ul><td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Vibration
+<td>Operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Avoid using the jig saw for prolonged periods on a regular basis to reduce risk of HAVS
+<li>Use correct saw blade and speed settings
+</ul><td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Theoretical<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Electricution
+<td>Operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>use an RCD device
+<li>Hold saw by insulated griping surfaces
+</ul><td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Theoretical<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>kick-back
+<td>Operator
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>secure work with clamps
+<li>make sure baseplate is in contact with material being cut
+<li>dont stop the blade until the cut is complete
+<li>*
+</ul><td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+</table><h2>History</h2><ul><li>2016-08-01 11:58:23 / jcl: converted from spreadsheet
+</ul>

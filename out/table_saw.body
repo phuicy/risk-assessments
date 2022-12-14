@@ -1,0 +1,46 @@
+<h1>Tool: Table Saw</h1>
+
+<h2>Risk: <img src="https://sysdiary.org/dot/xred.png" alt="red">High Risk</h2><h2>Induction: Mandatory</h2><h2>Activity</h2><ul><li>Cutting wood
+</ul><h2>Personal Protective Equipment</h2><ul><li>Eye protection
+<li>Ear protection
+</ul><h2>Procedure</h2><table border=0>
+<tr valign="top"><th>Before<th>During<th>After<tr valign="top"><td><ul><li>SEE INDUCTION
+<li>Perform a visual inspection of saw and any accessories being used for for physical damage.
+<li>Tie back or remove loose clothing, tie up long hair. Remove any jewellery and gloves
+<li>check if the blade is appropriate for the material or type of cut
+<li>inspect sliding table slides smoothly and fence is secure
+<li>check that the workpiece does not exceed the maximum dimension allowed
+<li>make sure stance and body position is correct without having to overreach
+<li>Plan your cut to identify any problems before starting the tool
+<li>Do not touch the blade unless the power to the machine is cut
+<li>Use the lowest blade height possible required for the cut
+<li>Set the blade guard as close as possible to the surface of the workpiece
+</ul><td><ul><li>Allow the blade to reach full speed before cutting
+<li>Wear eye protection if there is a risk of ejected material getting in your eyes.
+<li>Keep hands WELL away from blade path. Use push sticks if necessary
+<li>always run workpiece firmly against the fence or secured to the sliding carriage
+<li>always use a push stick for a piece less than 350mm long or for feeding the last 350mm of a piece through the blade
+</ul><td><ul><li>-Allow blade to stop fully
+<li>-Clean up dust and throw away discarded offcuts
+</ul></table>
+<h2>Risk Assessment</h2><table border=0><tr><th>Hazard<th>Persons<th>Before Controls<th>Controls<th>After Controls<tr valign="top"><th>Entanglement in moving machinery
+<td>Operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Loose clothing and long hair to be tied back.
+<li>Jewellery to be removed.
+</ul><td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>cut
+<td>operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>use blade guard at all times
+<li>use paddles or push sticks when necessary
+</ul><td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>kick-back
+<td>People in the vicinity
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>apply appropriate pressure against fence
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>Ejected material
+<td>Operator
+<td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Steady piece firmly thorugh cut.
+<li>Use blade guard at all times.
+</ul><td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+</table><h2>History</h2><ul><li>2016-08-01 11:58:27 / jcl: converted from spreadsheet
+</ul>

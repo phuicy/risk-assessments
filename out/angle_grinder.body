@@ -1,0 +1,42 @@
+<h1>Tool: Angle grinder</h1>
+
+<h2>Risk: <img src="https://sysdiary.org/dot/xred.png" alt="red">High Risk</h2><h2>Induction: Mandatory</h2><h2>Activity</h2><ul><li>Cutting or removal of material by putting a high speed spinning disc in contact with the workpiece.
+</ul><h2>Personal Protective Equipment</h2><ul><li>Eye protection
+</ul><h2>Procedure</h2><table border=0>
+<tr valign="top"><th>Before<th>During<th>After<tr valign="top"><td><ul><li>Perform a visual inspection of tool and check for any physical damage
+<li>Make sure disc is fitted securely and the nut is in the correct way
+<li>Ensure nothing is in the tool&#39;s path in direction of disc rotation
+<li>Ensure no flammable materials are in the vicinity
+<li>Ensure correct type of disc is used for operation and type of material
+</ul><td><ul><li>Wear eye protection.
+<li>Keep hands away from rotating parts.
+<li>Ensure workpiece is stable (clamped or similar)
+<li>Ensure tool is unplugged during disc change
+</ul><td><ul><li>Allow workpiece and disc to cool before touching
+<li>Unplug and store tool
+<li>Tidy any waste material
+</ul></table>
+<h2>Risk Assessment</h2><table border=0><tr><th>Hazard<th>Persons<th>Before Controls<th>Controls<th>After Controls<tr valign="top"><th>Entanglement in moving machinery
+<td>Operator
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>May happen<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Loose clothing and long hair to be tied back.
+<li>Jewellery to be removed.
+</ul><td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium
+<tr valign="top"><th>Burns
+<td>Current and next operator
+<td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Likely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Tool and workpiece to be left to cool after extended use.
+</ul><td><small>Severity<br></small>Minor injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Fire
+<td>People in the vicinity
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Remove any flammable items from the area
+</ul><td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Loss of control of the tool
+<td>Operator
+<td><small>Severity<br></small>Fatality, life-changing injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xred.png" alt="red">High<td><ul><li>Operator is inducted in correct handling of the tool
+</ul><td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+<tr valign="top"><th>Material ejection (disc or workpiece)
+<td>Operator
+<td><small>Severity<br></small>Serious injury<br><small>Likelihood<br></small>Unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xorange.png" alt="orange">Medium<td><ul><li>Safety goggles to be used and the operator is to be inducted on the correct procedure for removing and discs
+<li>Workpiece to be secured
+</ul><td><small>Severity<br></small>Significant injury<br><small>Likelihood<br></small>Very unlikely<br><small>Risk</small><br><img src="https://sysdiary.org/dot/xgreen.png" alt="green">Low
+</table><h2>History</h2><ul><li>2016-08-01 11:58:18 / jcl: converted from spreadsheet
+</ul>
